@@ -1,0 +1,25 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+section{
+    margin: 0 auto;
+    height: 80%;
+    width: 80%;
+    background-color: aqua;
+    text-align: center;
+    padding: 2%;
+    border-radius: 5%;
+}
+img{
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+input{
+    border-radius: 5px;
+}
