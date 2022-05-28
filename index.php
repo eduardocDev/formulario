@@ -24,6 +24,9 @@
             <label for="">Objetivos:</label><br>
             <textarea name="" id="" cols="30" rows="10"></textarea><br>
             <button type="submit">ENVIAR</button>
+            <?php
+            
+            ?>
         </form>
         </div>
     </section>
